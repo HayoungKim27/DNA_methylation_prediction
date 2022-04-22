@@ -2,8 +2,8 @@
 
 Welcome to the 'DNA_methylation_prediction' repository!
 
-Event: Kaggle competition for the course Predictive Modeling 
-Participant: All MSc Bioinformatics Students of the Ghent University
+Event: Kaggle competition for the course Predictive Modeling <br />
+Participant: All MSc Bioinformatics Students of the Ghent University <br />
 Date: Apr 19, 2021
 
 The addition of a methyl group to CG dinucleotides is called CpG methylation.
